@@ -1,0 +1,23 @@
+{
+  "name": "json-to-excel",
+  "version": "1.0.0",
+  "description": "Basic Node app for convert json files into Excel format",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [
+    "Excel",
+    "JSON",
+    "Node",
+    "JS",
+    "XLSX",
+    "XLS"
+  ],
+  "author": "Arno",
+  "license": "ISC",
+  "dependencies": {
+    "excel4node": "1.8.2"
+  }
+}
